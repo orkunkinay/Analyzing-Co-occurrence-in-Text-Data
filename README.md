@@ -1,4 +1,4 @@
-# Analyzing Co-occurrence in Text Data Using Machine Learning
+# Analyzing Co-occurrence in Text Data
 
 ## Introduction
 This repository contains the implementation of an experiment aimed at analyzing co-occurrence patterns in text data. The primary goal is to explore the relationships and patterns between different terms within a corpus. Corpus can be changed to see the results of different text data.
